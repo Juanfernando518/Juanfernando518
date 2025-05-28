@@ -1,5 +1,5 @@
 <!-- Encabezado con banner -->
-<img src="https://i.imgur.com/z5LNfZx.png" alt="Banner de Bienvenida" width="100%" />
+<img src="https://github.com/Juanfernando518/tu-repo/blob/main/51990509-30b4-4fa7-8bf4-34bb491088da.png?raw=true" width="100%" />
 
 # 👋 ¡Hola! Soy **Juan Fernando**
 ### Estudiante de Ingeniería en Sistemas 💻📚
