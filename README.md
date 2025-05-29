@@ -1,5 +1,5 @@
 <!-- Banner personalizado -->
-<img ![Image](https://github.com/user-attachments/assets/e948e82f-21dd-48d9-b87e-33dde658d17d)
+<img (https://github.com/user-attachments/assets/e948e82f-21dd-48d9-b87e-33dde658d17d)
 
 # 👋 ¡Hola! Soy **Juan Fernando**
 
